@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F10%2F23%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[幸福的一日]]></title>
+    <url>%2F2018%2F12%2F20%2F%E5%B9%B8%E7%A6%8F%E7%9A%84%E4%B8%80%E6%97%A5%2F</url>
+    <content type="text"><![CDATA[从黎明到黄昏阳光充足胜过一切过去的诗幸福找到我幸福说：“瞧 这个诗人他比我本人还要幸福” –海子]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[今天，我什么也不说]]></title>
+    <url>%2F2018%2F11%2F28%2F%E4%BB%8A%E5%A4%A9%EF%BC%8C%E6%88%91%E4%BB%80%E4%B9%88%E4%B9%9F%E4%B8%8D%E8%AF%B4%2F</url>
+    <content type="text"><![CDATA[从此再不提起过去，痛苦或幸福，生不带来，死不带去。 今天，我什么也不说，让别人去说。 今夜我不会遇见你，今夜我遇见了世上的一切，但不会遇见你。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; —-海子]]></content>
+      <tags>
+        <tag>海子</tag>
+      </tags>
+  </entry>
+</search>
